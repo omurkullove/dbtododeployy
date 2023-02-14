@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "dateOfPost": "2/14/2023, 11:12:14 PM",
+      "id": 1676394734272,
+      "title": "Todo 1",
+      "isChecked": false,
+      "isFav": false
+    },
+    {
+      "dateOfPost": "2/14/2023, 11:12:17 PM",
+      "id": 1676394737583,
+      "title": "Todo 2",
+      "isChecked": false,
+      "isFav": false
+    },
+    {
+      "dateOfPost": "2/14/2023, 11:12:23 PM",
+      "id": 1676394743034,
+      "title": "Todo 3",
+      "isChecked": false,
+      "isFav": false
+    }
+  ]
+}
